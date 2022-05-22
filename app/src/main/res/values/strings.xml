@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChuckNorrisApi</string>
+    <string name="title">Chuck Norris API</string>
+    <string name="title_card">Category: %1$s</string>
+    <string name="load_joke">load another joke</string>
+    <string name="choose_category">Choose Category</string>
+    <string name="tf_search">Search for a joke</string>
+    <string name="categories">Categories</string>
+    <string name="all_favorite_jokes">All favorite Jokes</string>
+</resources>

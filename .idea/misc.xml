@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.1" />
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/drawable/ic_bg.xml" value="0.1" />
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/drawable/ic_bg_dark.xml" value="0.1115" />
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/drawable/ic_btn_favorite.xml" value="0.1115" />
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/drawable/ic_btn_share.xml" value="0.1" />
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/font/roboto.xml" value="0.33229166666666665" />
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/layout/activity_categories.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/layout/activity_show_joke_cards.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/layout/btn_choose_category.xml" value="0.18489583333333334" />
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/layout/btn_opjokes.xml" value="0.19895833333333332" />
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/layout/card_main.xml" value="0.1" />
+        <entry key="..\:/Users/arauj/AndroidStudioProjects/ChuckNorrisApi/app/src/main/res/layout/categories.xml" value="0.11614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
